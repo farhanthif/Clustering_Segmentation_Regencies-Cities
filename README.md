@@ -1,1 +1,2 @@
-# Clustering_Segmentation_Regencies-Cities
+# Machine Learning-driven Segmentation of Regencies/Cities for Optimal Utilization of Regional Earth Products
+This project addresses economic uncertainties by leveraging machine learning clustering models to segment cities and districts in East Java based on regional crop yields. The goal is to optimize the potential of MSMEs, strategically aligning them with the abundance of regional earth products for sustainable economic growth and resilience.
